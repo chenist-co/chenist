@@ -1,25 +1,23 @@
 ---
 title: Contact
-date: 2019-11-01T10:01:34Z
+date: 2019-11-01T10:01:34.000+00:00
 layout: contact
 menu: main
 
 ---
-**Connect With CHENIST** 
+**We are here to help you**
 
-We’re here to help
+Do you have a question, want to book a meeting or looking for more information?
 
-Have a question, want to book a meeting or looking for more information?
+Pay us a visit or call one of our specialists.
 
-Key HQ: Craiova, Str. Gheorghe Bibescu nr. 44., Craiova, Dolj
+USA: +1(209)2328686
 
-Connect with an CHENIST Security Specialist.
-
-USA: +1(209)2328686 
-
-Romania: +40(0)740303764 
+Romania: +40(0)740303764
 
 Sweden: +46(0)708144153
+
+HQ: Craiova, Str. Gheorghe Bibescu nr. 44., Craiova, Dolj
 
 | Day | Opening Hours |
 | --- | --- |
