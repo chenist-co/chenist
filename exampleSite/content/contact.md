@@ -5,7 +5,13 @@ layout: contact
 menu: main
 
 ---
-Connect With CHENIST 
+**Connect With CHENIST** 
+
+We’re here to help
+
+Have a question, want to book a meeting or looking for more information?
+
+Connect with an CHENIST Security Specialist.
 
 | Day | Opening Hours |
 | --- | --- |
