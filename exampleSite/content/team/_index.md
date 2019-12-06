@@ -1,10 +1,12 @@
 ---
-title: Team
+title: Resources
 intro_image: images/undraw_modern_professional_yt9h.svg
 intro_image_absolute: false
 intro_image_hide_on_mobile: false
+
 ---
+# Resources
 
-# Meet The Team
+We just launched our company so expect to find here a lot of content. Just wait a bit longer while we update everything.
 
-Our team of qualified accountants and financial consultants can help your business at any stage of it's growth.
+By the way, please give us feedback so we will improve and grow together with you.
