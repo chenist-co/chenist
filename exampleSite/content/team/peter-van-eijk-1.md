@@ -1,13 +1,16 @@
 ---
-title: Peter Van Eijk
-date: 2018-11-19T10:47:58+10:00
-image: images/team/peter-van-eijk-711986-unsplash.jpg
-jobtitle: Director
-linkedinurl: https://www.linkedin.com/
+title: Alin Mechenici
+date: 2019-10-01T01:47:58+02:00
+image: "/images/alin.png"
+jobtitle: CEO
+linkedinurl: https://www.linkedin.com/in/alinmechenici
 draft: false
 weight: 1
+featured: false
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Alin Mechenici wears many hats, excluding black. 
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Blog: [https://mechenici.com/](https://mechenici.com/ "mechenici.com")
+
+Page: [https://about.me/alinmechenici](https://about.me/alinmechenici "About.me/AlinMechenici")
