@@ -1,96 +1,95 @@
 ---
 label: Config
 hide_body: true
-is_partial: false
 fields:
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
+- type: text
+  name: baseURL
+  label: Base URL
+  description: Hostname (and path) to the root
+  hidden: true
+- type: text
+  name: languageCode
+  label: Language Code
+  hidden: true
+- type: text
+  name: themesDir
+  label: Themes Directory
+  hidden: true
+- type: text
+  name: theme
+  label: Theme Name
+  hidden: true
+- type: field_group
+  name: params
+  label: Params
+  description: Site parameters
+  config:
+    required: true
+  fields:
   - type: text
-    name: title
-    label: Title
-    config:
-      required: true
+    name: google_analytics_id
+    label: Google Analytics ID
   - type: text
-    name: baseURL
-    label: Base URL
-    description: Hostname (and path) to the root
-    hidden: true
-  - type: text
-    name: languageCode
-    label: Language Code
-    hidden: true
-  - type: text
-    name: themesDir
-    label: Themes Directory
-    hidden: true
-  - type: text
-    name: theme
-    label: Theme Name
-    hidden: true
+    name: google_tag_manager_id
+    label: Google Tag Manager ID
   - type: field_group
-    name: params
-    label: Params
-    description: Site parameters
-    config:
-      required: true
+    name: logo
+    label: Params Logo
     fields:
-      - type: text
-        name: google_analytics_id
-        label: Google Analytics ID
-      - type: text
-        name: google_tag_manager_id
-        label: Google Tag Manager ID
-      - type: field_group
-        name: logo
-        label: Params Logo
-        fields:
-          - type: file
-            name: standard
-            label: Logo Desktop
-            description: the path of the desktop logo image
-            config:
-              required: true
-          - type: file
-            name: mobile
-            label: Logo Mobile
-            description: the path of the mobile logo image
-          - type: text
-            name: alt
-            label: Logo Alt Text
-      - type: field_group
-        name: homepage_meta_tags
-        label: Homepage Metatags
-        fields:
-          - type: text
-            name: meta_description
-            label: meta_description
-          - type: text
-            name: meta_og_title
-            label: meta_og_title
-          - type: text
-            name: meta_og_type
-            label: meta_og_type
-          - type: text
-            name: meta_og_url
-            label: meta_og_url
-          - type: text
-            name: meta_og_image
-            label: meta_og_image
-          - type: text
-            name: meta_og_description
-            label: meta_og_description
-          - type: text
-            name: meta_twitter_card
-            label: meta_twitter_card
-          - type: text
-            name: meta_twitter_site
-            label: meta_twitter_site
-          - type: text
-            name: meta_twitter_creator
-            label: meta_twitter_creator
+    - type: file
+      name: standard
+      label: Logo Desktop
+      description: the path of the desktop logo image
+      config:
+        required: true
+    - type: file
+      name: mobile
+      label: Logo Mobile
+      description: the path of the mobile logo image
+    - type: text
+      name: alt
+      label: Logo Alt Text
   - type: field_group
-    name: menu
-    label: Menus
+    name: homepage_meta_tags
+    label: Homepage Metatags
     fields:
-      - type: include
-        name: include_site_menus
-        label: Site Menus
-        template: site_menus
+    - type: text
+      name: meta_description
+      label: meta_description
+    - type: text
+      name: meta_og_title
+      label: meta_og_title
+    - type: text
+      name: meta_og_type
+      label: meta_og_type
+    - type: text
+      name: meta_og_url
+      label: meta_og_url
+    - type: text
+      name: meta_og_image
+      label: meta_og_image
+    - type: text
+      name: meta_og_description
+      label: meta_og_description
+    - type: text
+      name: meta_twitter_card
+      label: meta_twitter_card
+    - type: text
+      name: meta_twitter_site
+      label: meta_twitter_site
+    - type: text
+      name: meta_twitter_creator
+      label: meta_twitter_creator
+- type: field_group
+  name: menu
+  label: Menus
+  fields:
+  - type: include
+    name: include_site_menus
+    label: Site Menus
+    template: site_menus

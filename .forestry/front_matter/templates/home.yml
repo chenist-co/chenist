@@ -1,25 +1,24 @@
 ---
 label: Home
 hide_body: false
-is_partial: false
 fields:
-  - type: text
-    name: title
-    label: Title
-    description: The title of the page.
-    config:
-      required: true
-  - type: file
-    name: intro_image
-    label: Intro Image
-    description: Image displayed at in the pages intro section
-  - type: boolean
-    name: intro_image_absolute
-    label: Overflow intro image
-    description: Should the image overflow or be contained
-  - type: boolean
-    name: intro_image_hide_on_mobile
-    label: Hide the intro image on mobile
-    description: Hide the intro image on mobile screen sizes
+- type: text
+  name: title
+  label: Title
+  description: The title of the page.
+  config:
+    required: true
+- type: file
+  name: intro_image
+  label: Intro Image
+  description: Image displayed at in the pages intro section
+- type: boolean
+  name: intro_image_absolute
+  label: Overflow intro image
+  description: Should the image overflow or be contained
+- type: boolean
+  name: intro_image_hide_on_mobile
+  label: Hide the intro image on mobile
+  description: Hide the intro image on mobile screen sizes
 pages:
-  - exampleSite/content/_index.md
+- exampleSite/content/_index.md

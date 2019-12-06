@@ -1,29 +1,29 @@
 ---
 label: Service
-is_partial: false
+hide_body: false
 fields:
-  - type: text
-    name: title
-    label: Title
-  - type: datetime
-    name: date
-    label: Date
-  - type: file
-    name: image
-    label: Image
-  - type: boolean
-    name: draft
-    label: Draft
-  - type: boolean
-    name: featured
-    label: Featured
-  - type: number
-    name: weight
-    label: Weight
+- type: text
+  name: title
+  label: Title
+- type: datetime
+  name: date
+  label: Date
+- type: file
+  name: image
+  label: Image
+- type: boolean
+  name: draft
+  label: Draft
+- type: boolean
+  name: featured
+  label: Featured
+- type: number
+  name: weight
+  label: Weight
 pages:
-  - exampleSite/content/services/accounting.md
-  - exampleSite/content/services/business-advisory.md
-  - exampleSite/content/services/business-sales.md
-  - exampleSite/content/services/mergers.md
-  - exampleSite/content/services/superannuation.md
-  - exampleSite/content/services/tax-preperation.md
+- exampleSite/content/services/accounting.md
+- exampleSite/content/services/business-advisory.md
+- exampleSite/content/services/business-sales.md
+- exampleSite/content/services/mergers.md
+- exampleSite/content/services/superannuation.md
+- exampleSite/content/services/tax-preperation.md
