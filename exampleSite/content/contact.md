@@ -13,6 +13,11 @@ Have a question, want to book a meeting or looking for more information?
 
 Connect with an CHENIST Security Specialist.
 
+office@chen.ist | 
+
+Key HQ: Craiova, Str. Gheorghe Bibescu nr. 44., Craiova, Dolj
+
+
 | Day | Opening Hours |
 | --- | --- |
 | Monday | 8:30am - 5:00pm |
