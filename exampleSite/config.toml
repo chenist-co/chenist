@@ -35,4 +35,4 @@ meta_twitter_site = "@chenistsec"
 [params.logo]
 alt = "CHENIST Proactive Cybersecurity"
 mobile = "/images/logo.png"
-standard = "/images/logo.png"
+standard = "/images/logo-1.svg"
