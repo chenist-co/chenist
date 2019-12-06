@@ -5,7 +5,7 @@ layout: contact
 menu: main
 
 ---
-**We are here to help you**
+## **We are here to help you**
 
 Do you have a question, want to book a meeting or looking for more information?
 
@@ -28,3 +28,9 @@ HQ: Craiova, Str. Gheorghe Bibescu nr. 44., Craiova, Dolj
 | Friday | 8:30am - 5:00pm |
 | Saturday | 10:am - 12:00pm |
 | Sunday | Closed |
+
+### Email
+
+If you prefer the good old email, we recommend you to use the encrypted version. Download our Public Keys from [Keybase](https://keybase.io/chenistsec "Keybase").
+
+You don't know how to do it, no worries, we can happily help you!
