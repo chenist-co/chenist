@@ -1,6 +1,6 @@
 ---
 title: Digital Risk Management
-date: 2018-11-28T15:15:34+10:00
+date: 
 draft: false
 featured: true
 image: ''
