@@ -7,6 +7,8 @@ image: "/images/logo-1.svg"
 weight: 
 
 ---
-Experienced virtual CISOs (vCISOs) to Enhance Small and Midsized Businesses Cyber Security. We have the technical expertise and business acumen to make an immediate difference.
+A "Chief Information Security Officer" is the executive responsible for the organization's entire security posture. A virtual CISO (vCISOs) is something that you need to enhance your cybersecurity strategy and infrastructure.
 
-Connect with a [CHENIST Security Specialist](https://chen.ist/contact "Contact"). 
+We have the technical expertise and business acumen to help you right away.
+
+Connect with a [CHENIST Security Specialist](https://chen.ist/contact).
