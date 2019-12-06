@@ -11,13 +11,13 @@ We are a group of passionate cybersecurity consultants, programmers, artists and
 
 Based in Europe, we are small but with big plans and ambitions. Help us help you to develop a safer environment for your employees and clients all together.
 
-**Our core Values:**
+## **Our core Values:**
 
 1. Reliability
 2. Transparency
 3. Simplicity
 
-**Our Vision**
+## **Our Vision**
 
 At CHENIST we don't have clients or customers, we have partners. And we work together to co-design a more secure future.
 
@@ -31,7 +31,7 @@ We strongly believe that "Free as in Freedom of Speech" is better than "Free as 
 
 OpenBSD, Qubes OS, Alpine, Emacs, i3WM, LibreOffice, Sailfish OS and Pure OS are just a few Open Source operating systems and software we use daily here at CHENIST because Free is better than locked.
 
-## CSR
+## **CSR**
 
 We are investing in future generations by offering the chance to develop new skills. 
 

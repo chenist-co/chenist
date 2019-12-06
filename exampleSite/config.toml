@@ -1,4 +1,4 @@
-baseURL = "www.example.com"
+baseURL = "www.chen.ist"
 languageCode = "en-us"
 theme = "hugo-serif-theme"
 themesDir = "../.."
@@ -16,8 +16,8 @@ name = "Services"
 url = "/services/"
 weight = 1
 [[menu.main]]
-name = "Team"
-url = "/team/"
+name = "Resources"
+url = "/resources/"
 weight = 2
 [params]
 google_analytics_id = ""
