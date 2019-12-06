@@ -33,4 +33,4 @@ HQ: Craiova, Str. Gheorghe Bibescu nr. 44., Craiova, Dolj
 
 If you prefer the good old email, we recommend you to use the encrypted version. Download our Public Keys from [Keybase](https://keybase.io/chenistsec "Keybase").
 
-You don't know how to do it, no worries, we can happily help you!
+You don't know how to do it, no worries, we can happily help you! 
