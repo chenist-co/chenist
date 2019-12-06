@@ -1,50 +1,50 @@
 ---
 title: About
 menu: main
+date: 
+layout: ''
+
 ---
+We are a group of passionate cybersecurity consultants, programmers, artists and business professionals focused on keeping and building strong businesses for our partners by delivering great security services.
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+## We have the knowledge, tools and resources to help medium, large and small companies
 
-## Ne verba patulosque numen vix libet
+Based in Europe, we are small but with big plans and ambitions. Help us help you to develop a safer environment for your employees and clients all together.
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+**Our core Values:**
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+1. Reliability
+2. Transparency
+3. Simplicity
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+**Our Vision**
 
-## Postquam tamen
+At CHENIST we don't have clients or customers, we have partners. And we work together to co-design a more secure future.
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+**Mission Statement**
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
+To provide superior training and consulting that delivers great value to our partners.
 
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
+**We Love Open Source**
 
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+We strongly believe that "Free as in Freedom of Speech" is better than "Free as in Beer".
+
+OpenBSD, Qubes OS, Alpine, Emacs, i3WM, LibreOffice, Sailfish OS and Pure OS are just a few Open Source operating systems and software we use daily here at CHENIST because Free is better than locked.
+
+## CSR
+
+We are investing in future generations by offering the chance to develop new skills. 
+
+**NASA SpaceApps Challenge** - world biggest hackathon in the world is something that our team organize it even before CHENIST Cybersecurity existed as a concept. In 2020 we will organize the 5 edition in two countries. Contact us to make this event even better both in Romania and in Sweden.
+
+Visit the website at: appschallenge.space
+
+We also deliver **free consultancy and training** for the NGOs we choose.
+
+**Careers**
+
+If you love complex technology and people and you are looking to make career in cybersecurity, come and work with us!
+
+Opened jobs: Marketing engineer
+
+Project based: Pentester Contact us for details.
