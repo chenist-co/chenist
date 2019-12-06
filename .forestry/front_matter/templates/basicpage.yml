@@ -22,5 +22,5 @@ fields:
     - main
     - footer
 pages:
-- exampleSite/content/contact.md
 - exampleSite/content/about.md
+- exampleSite/content/contact.md

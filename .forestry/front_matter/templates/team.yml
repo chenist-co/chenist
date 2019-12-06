@@ -27,6 +27,5 @@ fields:
   name: weight
   label: Weight
 pages:
-- exampleSite/content/team/peter-van-eijk.md
 - exampleSite/content/team/sage-kirk.md
 - exampleSite/content/team/peter-van-eijk-1.md
