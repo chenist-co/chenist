@@ -1,0 +1,26 @@
+---
+label: Basic Page
+is_partial: false
+fields:
+  - type: text
+    name: title
+    label: Title
+    description: The title of the page.
+  - type: datetime
+    name: date
+    label: Date
+  - type: text
+    name: layout
+    label: layout
+  - type: select
+    name: menu
+    label: Menu
+    config:
+      source:
+        type: custom
+      options:
+        - main
+        - footer
+pages:
+  - exampleSite/content/about.md
+  - exampleSite/content/contact.md

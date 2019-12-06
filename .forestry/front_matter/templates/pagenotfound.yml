@@ -1,0 +1,11 @@
+---
+label: '404'
+hide_body: true
+is_partial: false
+fields:
+  - type: text
+    name: title
+    label: Title
+    description: The title of the page.
+pages:
+  - exampleSite/content/404/_index.md

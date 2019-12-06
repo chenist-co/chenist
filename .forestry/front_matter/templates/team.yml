@@ -1,0 +1,31 @@
+---
+label: Team
+is_partial: false
+fields:
+  - type: text
+    name: title
+    label: Title
+  - type: datetime
+    name: date
+    label: Date
+  - type: file
+    name: image
+    label: Image
+  - type: text
+    name: jobtitle
+    label: Job Title
+  - type: text
+    name: linkedinurl
+    label: Linkedin URL
+  - type: boolean
+    name: draft
+    label: Draft
+  - type: boolean
+    name: featured
+    label: Featured
+  - type: number
+    name: weight
+    label: Weight
+pages:
+  - exampleSite/content/team/peter-van-eijk.md
+  - exampleSite/content/team/sage-kirk.md

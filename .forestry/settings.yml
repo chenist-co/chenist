@@ -1,0 +1,60 @@
+---
+new_page_extension: md
+auto_deploy: false
+admin_path: exampleSite/static/admin
+webhook_url: 'https://api.stackbit.com/project/5dea44b7358efa001ab1b570/webhook/forestry'
+sections:
+  - type: document
+    label: Config
+    path: exampleSite/config.toml
+    templates:
+      - config
+  - type: document
+    label: Home
+    path: exampleSite/content/_index.md
+    templates:
+      - home
+  - type: document
+    label: '404'
+    path: exampleSite/content/404/_index.md
+    templates:
+      - pagenotfound
+  - type: directory
+    path: exampleSite/content
+    match: '*.md'
+    exclude: '{_index.md,_index.md}'
+    label: Basic Page
+    create: all
+    templates:
+      - basicpage
+  - type: directory
+    path: exampleSite/content/services
+    match: '**/*'
+    exclude: '{_index.md,services/_index.md}'
+    label: Service
+    create: all
+    templates:
+      - service
+  - type: document
+    label: Services Overview
+    path: exampleSite/content/services/_index.md
+    templates:
+      - services
+  - type: directory
+    path: exampleSite/content/team
+    match: '**/*'
+    exclude: '{_index.md,team/_index.md}'
+    label: Team
+    create: all
+    templates:
+      - team
+  - type: document
+    label: Team Overview
+    path: exampleSite/content/team/_index.md
+    templates:
+      - teams
+upload_dir: exampleSite/static/images
+public_path: /images
+front_matter_path: ''
+use_front_matter_path: false
+file_template: ':filename:'
