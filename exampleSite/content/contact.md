@@ -1,10 +1,10 @@
 ---
 title: Contact
-date: '2018-02-22T17:01:34+07:00'
+date: 2019-11-01T10:01:34Z
 layout: contact
 menu: main
----
 
+---
 Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
 
 | Day       | Opening Hours   |
