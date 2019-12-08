@@ -720,7 +720,7 @@ h5.subtitle {
  WEB SERVICES
 -----------------------*/
 
-#services-2 {
+#services {
     position: relative;
     background: url("../img/map.svg")no-repeat fixed 50% 50%;
     -webkit-background-size: cover;
@@ -728,7 +728,7 @@ h5.subtitle {
 }
 
 
-#services-2:before{
+#services:before{
     position: absolute;
     content:"";
     left: 0px;
