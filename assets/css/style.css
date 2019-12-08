@@ -849,7 +849,7 @@ h5.subtitle {
 -----------------------*/
 #contact {
     position: relative;
-    background: url("../img/map.svg")no-repeat;
+    background: url("../img/contact.svg")no-repeat;
     -webkit-background-size: cover;
     background-size: cover;
 }
@@ -1015,6 +1015,11 @@ SECTION TESTIMONIAL
 }
 
 
+#csr {
+    background: url("../img/chenmap.svg");
+    -webkit-background-size: cover;
+    background-size: cover;
+}
 
 /*----------------------
  FOOTER
@@ -1026,7 +1031,7 @@ SECTION TESTIMONIAL
 }
 
 #footer {
-    background: url("../img/bg/10.jpg");
+    background: url("../img/map.svg");
     -webkit-background-size: cover;
     background-size: cover;
 }
