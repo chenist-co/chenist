@@ -847,7 +847,7 @@ h5.subtitle {
 /*----------------------
  PRoject
 -----------------------*/
-#projects-wrap {
+#contact {
     position: relative;
     background: url("../img/map.svg")no-repeat;
     -webkit-background-size: cover;
@@ -868,7 +868,7 @@ h5.subtitle {
     opacity: .9;
 }
 
-#projects-wrap p.lead{
+#contact p.lead{
     color: #a9a9a9!important;
 }
 #projects {
