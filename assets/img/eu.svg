@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 180 41" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="g1208" transform="matrix(0.20207,0,0,0.20207,-5.43,-3.044)">
+        <g>
+            <g id="g1056">
+                <rect id="rect1018" x="30.87" y="16.33" width="294.95" height="200.34" style="fill:white;fill-rule:nonzero;"/>
+                <rect id="rect1024" x="36.54" y="21.82" width="283.6" height="189.07" style="fill:rgb(3,78,162);fill-rule:nonzero;"/>
+                <g id="g1054">
+                    <path id="polygon1030" d="M188.07,51.59L180.58,51.59L178.28,44.44L175.99,51.59L168.5,51.59L174.58,55.95L172.3,63.02L178.28,58.65L184.27,63.02L181.99,55.95L188.07,51.59Z" style="fill:rgb(255,241,0);fill-rule:nonzero;"/>
+                    <path id="polygon1032" d="M157.1,59.91L149.6,59.91L147.31,52.75L145.02,59.91L137.53,59.91L143.6,64.27L141.33,71.34L147.31,66.97L153.29,71.34L151.02,64.27L157.1,59.91Z" style="fill:rgb(255,241,0);fill-rule:nonzero;"/>
+                    <path id="polygon1034" d="M118.67,94.05L124.65,89.68L130.64,94.05L128.36,86.98L134.44,82.62L126.95,82.62L124.65,75.46L122.36,82.62L114.87,82.62L120.95,86.98L118.67,94.05Z" style="fill:rgb(255,241,0);fill-rule:nonzero;"/>
+                    <path id="polygon1036" d="M118.63,113.55L116.34,106.39L114.05,113.56L106.56,113.55L112.63,117.91L110.36,124.98L116.34,120.61L122.32,124.98L120.05,117.91L126.12,113.55L118.63,113.55Z" style="fill:rgb(255,241,0);fill-rule:nonzero;"/>
+                    <path id="polygon1038" d="M120.95,148.94L118.67,156L124.65,151.62L130.64,156L128.36,148.94L134.44,144.57L126.95,144.57L124.65,137.41L122.36,144.58L114.87,144.57L120.95,148.94Z" style="fill:rgb(255,241,0);fill-rule:nonzero;"/>
+                    <path id="polygon1040" d="M143.65,171.64L141.38,178.7L147.36,174.34L153.34,178.7L151.07,171.64L157.14,167.27L149.65,167.27L147.36,160.12L145.07,167.28L137.58,167.27L143.65,171.64Z" style="fill:rgb(255,241,0);fill-rule:nonzero;"/>
+                    <path id="polygon1042" d="M174.58,179.87L172.31,186.93L178.29,182.56L184.27,186.93L181.99,179.87L188.07,175.5L180.58,175.5L178.29,168.34L176,175.51L168.51,175.5L174.58,179.87Z" style="fill:rgb(255,241,0);fill-rule:nonzero;"/>
+                    <path id="polygon1044" d="M205.51,171.64L203.24,178.7L209.22,174.34L215.2,178.7L212.92,171.64L219,167.27L211.51,167.27L209.22,160.12L206.92,167.28L199.44,167.27L205.51,171.64Z" style="fill:rgb(255,241,0);fill-rule:nonzero;"/>
+                    <path id="polygon1046" d="M228.22,148.94L225.94,156L231.92,151.62L237.91,156L235.63,148.94L241.7,144.57L234.22,144.57L231.92,137.41L229.63,144.58L222.14,144.57L228.22,148.94Z" style="fill:rgb(255,241,0);fill-rule:nonzero;"/>
+                    <path id="polygon1048" d="M230.36,113.46L236.44,117.83L234.17,124.89L240.14,120.52L246.13,124.89L243.85,117.83L249.93,113.46L242.44,113.46L240.14,106.3L237.85,113.47L230.36,113.46Z" style="fill:rgb(255,241,0);fill-rule:nonzero;"/>
+                    <path id="polygon1050" d="M241.7,82.53L234.22,82.53L231.92,75.38L229.63,82.54L222.14,82.53L228.22,86.89L225.94,93.95L231.92,89.59L237.91,93.95L235.63,86.89L241.7,82.53Z" style="fill:rgb(255,241,0);fill-rule:nonzero;"/>
+                    <path id="polygon1052" d="M203.32,71.34L209.31,66.97L215.29,71.34L213.02,64.28L219.1,59.91L211.6,59.91L209.31,52.76L207.02,59.92L199.52,59.91L205.6,64.28L203.32,71.34Z" style="fill:rgb(255,241,0);fill-rule:nonzero;"/>
+                </g>
+            </g>
+            <g transform="matrix(4.94878,0,0,4.94878,-141.584,-30.0319)">
+                <text x="98.525px" y="17.935px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:7px;fill:white;">This project is supported</text>
+                <text x="98.525px" y="25.164px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:7px;fill:white;">by the European Union</text>
+                <text x="98.525px" y="32.393px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:7px;fill:white;">fonds 2019-2020</text>
+            </g>
+        </g>
+    </g>
+</svg>
